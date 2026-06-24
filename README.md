@@ -1,14 +1,11 @@
 <div align="center">
 
-<h1 style="color:#6EB163;">📝 Blog Django</h1>
+# 🟢 Blog Django
 
-<p>
-  Blog creado siguiendo el tutorial de <strong>Django Girls</strong>.
-</p>
+### Creado siguiendo el tutorial de Django Girls
 
-<p>
-  Una aplicación sencilla para aprender los fundamentos de Django, incluyendo modelos, vistas, plantillas, administración y publicación de entradas.
-</p>
+![Django](https://img.shields.io/badge/Django-6EB163?style=for-the-badge&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
